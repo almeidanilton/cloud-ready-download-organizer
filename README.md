@@ -31,7 +31,6 @@ A solução automatiza a organização aplicando regras específicas e gera um r
 
 - Java
 - `java.nio.file` (NIO)
-- Stream API
 - Manipulação de arquivos
 - Tratamento de exceções
 
